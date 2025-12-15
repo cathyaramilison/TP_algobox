@@ -13,7 +13,7 @@
     </item>
     <item algoitem="DEBUT_ALGORITHME" code="101#debutalgo">
         <item algoitem="LIRE n" code="2#n#pasliste"/>
-        <item algoitem="POUR i ALLANT_DE 1 A n" code="12#i#1#n">
+        <item algoitem="POUR i ALLANT_DE 0 A n" code="12#i#0#n">
             <item algoitem="DEBUT_POUR" code="13#debutpour"/>
             <item algoitem="AFFICHER i" code="3#i#0#pasliste"/>
             <item algoitem="FIN_POUR" code="14#finpour"/>
